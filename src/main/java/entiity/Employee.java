@@ -91,6 +91,10 @@ public class Employee {
 	public void setReqDuty(int reqDuty) {
 		this.reqDuty = reqDuty;
 	}
+	public int calculateSalary(int duty){
+		int salary=duty*100000;
+		return salary;
+	}
 	
 	
 }

@@ -33,6 +33,7 @@
 
 	EmpManager empManager = new EmpManager();
 	int duty = empManager.getDuty(emp_id);
+	int salary=empManager.calculateSalary(duty);
 	int leaves = empManager.getLeaves(emp_id);
 	%>
 	<p><%=emp_id%></p>
@@ -102,6 +103,7 @@
 					</div>
 				</div>
 			</div>
+			<h2>Salary: <%=salary%></h2>
 			<!-- Optional JavaScript; choose one of the two! -->
 
 			<!-- Option 1: jQuery and Bootstrap Bundle (includes Popper) -->

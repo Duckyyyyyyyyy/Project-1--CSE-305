@@ -61,6 +61,7 @@
 							<th scope="col">Name</th>
 							<th scope="col">Leaves</th>
 							<th scope="col">Duty</th>
+							<th scope="col">Salary</th>
 						</tr>
 					</thead>
 					<%
@@ -69,6 +70,7 @@
 						String name = empList.get(i).getEmp_name();
 						int leave = empList.get(i).getLeaves();
 						int duty = empList.get(i).getDuty();
+						int salary =empList.get(i).calculateSalary(duty);
 						int index = i + 1;
 					%>
 
@@ -79,6 +81,7 @@
 							<td><%=name%></td>
 							<td><%=leave%></td>
 							<td><%=duty%></td>
+							<td><%=salary%></td>
 						</tr>
 					</tbody>
 					<%

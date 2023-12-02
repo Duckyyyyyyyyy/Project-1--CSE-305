@@ -93,4 +93,8 @@ public class EmpManager {
 		int leaves = empDao.getLeaves(emp_id);
 		return leaves;
 	}
+	public int calculateSalary(int duty){
+		int salary=duty*100000;
+		return salary;
+	}
 }
