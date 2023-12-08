@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/web/manager_register.jsp</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/web/emp_register.jsp</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/web/emp_login.jsp</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/manager/MangManager.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/servlets/empLoginServlet.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/entiity/Manager.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/dao/EmpDao.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/manager/RequestManager.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/servlets/mangLoginServlet.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/web/manager_login.jsp</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/servlets/requestServlet.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/web/managerPage.jsp</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/entiity/Schedule.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/manager/EmpManager.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/dao/MangDao.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/manager/ScheduleManager.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/servlets/createScheduleRegister.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/servlets/mangRegisterServlet.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/entiity/Employee.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/src/java/servlets/registerServlet.java</file>
+            <file>file:/C:/Users/khach/OneDrive/Documents/NetBeansProjects/pro/web/empPage.jsp</file>
+        </group>
+    </open-files>
+</project-private>
